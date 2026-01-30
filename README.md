@@ -35,7 +35,7 @@ Interactive-Quiz/
 ├── style.css
 ├── script.js
 ├── README.md
-└── PROJECT_DOCUMENTATION.pdf
+└── PROJECT_DOCUMENTATION.md
 
 
 ---
